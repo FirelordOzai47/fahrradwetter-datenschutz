@@ -7,7 +7,7 @@ Last updated / Stand: 23 October 2026
 ## English
 
 **App:** Fahrrad-Wetter / Bike Weather
-**Developer:** Themudo Games
+**Developer:** Mudo Studio
 **Contact:** info.mudostudio@gmail.com
 
 ### What this app does
@@ -37,7 +37,7 @@ If you have questions, write to info.mudostudio@gmail.com.
 ## Deutsch
 
 **App:** Fahrrad-Wetter
-**Entwickler:** Themudo Games
+**Entwickler:** Mudo Studio
 **Kontakt:** info.mudostudio@gmail.com
 
 ### Was die App macht
