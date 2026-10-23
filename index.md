@@ -4,7 +4,7 @@ Stand: 16.10.2026
 
 **Verantwortlicher:**
 Mustafa Dogan
-themudogames.info@gmail.com
+info.mudostudio@gmail.com
 ## 1. Allgemeines
 Die App „Fahrrad-Wetter" zeigt für Städte in Deutschland, Österreich und der Schweiz einen Fahrrad-Score auf Basis von Wetterdaten an. Es gibt keine Registrierung, kein Benutzerkonto, keine Werbung und keine Analyse- oder Tracking-Dienste.
 

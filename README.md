@@ -8,7 +8,7 @@ Last updated / Stand: 23 October 2026
 
 **App:** Fahrrad-Wetter / Bike Weather
 **Developer:** Themudo Games
-**Contact:** themudogames.info@gmail.com
+**Contact:** info.mudostudio@gmail.com
 
 ### What this app does
 The app shows a bike weather score for the past 7 and next 7 days for a city you choose.
@@ -30,7 +30,7 @@ The app shows a bike weather score for the past 7 and next 7 days for a city you
 You can delete your favorites at any time inside the app, or by uninstalling the app, which removes all data stored on your device.
 
 ### Contact
-If you have questions, write to themudogames.info@gmail.com.
+If you have questions, write to info.mudostudio@gmail.com.
 
 ---
 
@@ -38,7 +38,7 @@ If you have questions, write to themudogames.info@gmail.com.
 
 **App:** Fahrrad-Wetter
 **Entwickler:** Themudo Games
-**Kontakt:** themudogames.info@gmail.com
+**Kontakt:** info.mudostudio@gmail.com
 
 ### Was die App macht
 Die App zeigt für eine von dir gewählte Stadt einen Rad-Score für die letzten 7 und die nächsten 7 Tage.
@@ -60,4 +60,4 @@ Die App zeigt für eine von dir gewählte Stadt einen Rad-Score für die letzten
 Du kannst deine Favoriten jederzeit in der App löschen oder die App deinstallieren. Dadurch werden alle auf deinem Gerät gespeicherten Daten entfernt.
 
 ### Kontakt
-Bei Fragen schreibe an themudogames.info@gmail.com.
+Bei Fragen schreibe an info.mudostudio@gmail.com.
