@@ -1,27 +1,63 @@
-# Datenschutzerklärung – Fahrrad-Wetter
+# Privacy Policy / Datenschutzerklärung
 
-Stand: 16.10.2026
+Last updated / Stand: 23 October 2026
 
-**Verantwortlicher:**
-Mustafa Dogan
-themudogames.info@gmail.com
-## 1. Allgemeines
-Die App „Fahrrad-Wetter" zeigt für Städte in Deutschland, Österreich und der Schweiz einen Fahrrad-Score auf Basis von Wetterdaten an. Es gibt keine Registrierung, kein Benutzerkonto, keine Werbung und keine Analyse- oder Tracking-Dienste.
+---
 
-## 2. Welche Daten verarbeitet die App?
-Die App greift nicht auf den Standort deines Geräts zu. Wenn du nach einer Stadt suchst, wird der eingegebene Suchbegriff an den Dienst Open-Meteo (open-meteo.com) gesendet, um passende Orte zu finden. Wenn du eine Stadt auswählst, werden deren Koordinaten an Open-Meteo gesendet, um die Wetterdaten abzurufen. Bei jeder Internetverbindung wird technisch bedingt die IP-Adresse an den jeweiligen Server übertragen. Weitere Informationen findest du in der Datenschutzerklärung von Open-Meteo.
+## English
 
-## 3. Speicherung
-Die App speichert keine personenbezogenen Daten auf deinem Gerät und auf keinem eigenen Server.
+**App:** Fahrrad-Wetter / Bike Weather
+**Developer:** Themudo Games
+**Contact:** themudogames.info@gmail.com
 
-## 4. Weitergabe an Dritte
-Außer der Kommunikation mit Open-Meteo (siehe Punkt 2) werden keine Daten an Dritte weitergegeben.
+### What this app does
+The app shows a bike weather score for the past 7 and next 7 days for a city you choose.
 
-## 5. Deine Rechte
-Du hast nach der DSGVO das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung deiner Daten. Da die App selbst keine personenbezogenen Daten speichert, wende dich bei Fragen an die oben genannte E-Mail-Adresse.
+### What data is used
+- **City search:** The text you type into the search field is sent to the weather service Open-Meteo (open-meteo.com) to find matching cities.
+- **Weather data:** The coordinates of the city you select are sent to Open-Meteo to get the weather forecast.
+- **Favorites:** Your favorite cities are stored only on your device. They are not sent to us or to anyone else.
+- Like any internet request, Open-Meteo receives your IP address when your device contacts its servers. Please see Open-Meteo's privacy policy at https://open-meteo.com/en/terms.
 
-## 6. Quelle der Wetterdaten
-Wetterdaten: Open-Meteo.com
+### What we do not do
+- We do not show ads.
+- We do not require an account or login.
+- We do not collect your location. The app does not use GPS.
+- We do not sell or share your data.
+- We do not operate our own server and cannot see what you search.
 
-## 7. Änderungen
-Diese Erklärung kann angepasst werden, wenn sich die App ändert. Die aktuelle Fassung ist immer unter dieser Adresse abrufbar.
+### Your choices
+You can delete your favorites at any time inside the app, or by uninstalling the app, which removes all data stored on your device.
+
+### Contact
+If you have questions, write to themudogames.info@gmail.com.
+
+---
+
+## Deutsch
+
+**App:** Fahrrad-Wetter
+**Entwickler:** Themudo Games
+**Kontakt:** themudogames.info@gmail.com
+
+### Was die App macht
+Die App zeigt für eine von dir gewählte Stadt einen Rad-Score für die letzten 7 und die nächsten 7 Tage.
+
+### Welche Daten verwendet werden
+- **Stadtsuche:** Der Text, den du in das Suchfeld eingibst, wird an den Wetterdienst Open-Meteo (open-meteo.com) gesendet, um passende Städte zu finden.
+- **Wetterdaten:** Die Koordinaten der ausgewählten Stadt werden an Open-Meteo gesendet, um die Wettervorhersage abzurufen.
+- **Favoriten:** Deine Favoriten werden nur auf deinem Gerät gespeichert. Sie werden weder an uns noch an Dritte gesendet.
+- Wie bei jeder Internetanfrage erhält Open-Meteo deine IP-Adresse, wenn dein Gerät dessen Server kontaktiert. Siehe die Datenschutzhinweise von Open-Meteo: https://open-meteo.com/en/terms.
+
+### Was wir nicht tun
+- Wir zeigen keine Werbung.
+- Wir verlangen kein Konto und keine Anmeldung.
+- Wir erfassen deinen Standort nicht. Die App nutzt kein GPS.
+- Wir verkaufen oder teilen deine Daten nicht.
+- Wir betreiben keinen eigenen Server und sehen nicht, wonach du suchst.
+
+### Deine Möglichkeiten
+Du kannst deine Favoriten jederzeit in der App löschen oder die App deinstallieren. Dadurch werden alle auf deinem Gerät gespeicherten Daten entfernt.
+
+### Kontakt
+Bei Fragen schreibe an themudogames.info@gmail.com.
